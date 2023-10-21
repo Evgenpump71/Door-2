@@ -10,6 +10,7 @@
 
 # Производство деревянной части двери
 
-1. 
-
+1. Замер существующей двери.
+![2](https://github.com/Evgenpump71/Door-2/assets/144489649/8cf0aca3-5cd9-4c59-a4bb-3c0e049a68fe)
+![1](https://github.com/Evgenpump71/Door-2/assets/144489649/8c725d77-3120-4be1-8e3b-d9d853f23ca9)
 
