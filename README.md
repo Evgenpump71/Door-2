@@ -45,7 +45,7 @@ https://youtu.be/r2ukFF-oKNU
 
 https://github.com/Evgenpump71/Door-2/assets/144489649/f3c9f805-880d-4d2a-8ffc-c7a773d2dc26
 
-3. После этого на напечатаннуую карту был прилеен чип дл открывания двери
+3. После этого на напечатанную карту был прилеен чип дл открывания двери
 
 # Итоготовый вид карты
 ![photo_2023-12-26_17-38-39](https://github.com/Evgenpump71/Door-2/assets/144489649/4cf8c0cb-f7c9-437f-908b-4c653ac98cc6)
